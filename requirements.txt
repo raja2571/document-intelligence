@@ -5,5 +5,5 @@ python-dotenv
 groq
 requests
 sqlalchemy
-pydantic
+pydantic-settings
 pypdf
