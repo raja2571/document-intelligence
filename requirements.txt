@@ -7,3 +7,4 @@ requests
 sqlalchemy
 pydantic-settings
 pypdf
+PyMuPDF
