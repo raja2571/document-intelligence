@@ -8,3 +8,4 @@ sqlalchemy
 pydantic-settings
 pypdf
 PyMuPDF
+pytesseract
